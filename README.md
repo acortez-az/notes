@@ -1,2 +1,2 @@
-# ASU-first-repository
+# notes
 Test
